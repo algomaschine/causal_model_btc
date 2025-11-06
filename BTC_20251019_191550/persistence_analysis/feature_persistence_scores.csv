@@ -1,0 +1,748 @@
+,months_causal,total_months,causality_strength,stability_score
+USDJPY_low_fract,0,49,[],0.0
+EURAUD_low_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+ATOM_adjusted_close,0,49,[],0.0
+XAGUSD_close,0,49,[],0.0
+IVV_adjusted_close,0,49,[],0.0
+ATOM_open,0,49,[],0.0
+AGG_adjusted_close,0,49,[],0.0
+MOVE.INDX_low,0,49,[],0.0
+EURUSD_close_fract,1,49,[np.int64(2)],0.0
+ETH_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+IWM_low,0,49,[],0.0
+NVDA_adjusted_close,0,49,[],0.0
+XOM_low,0,49,[],0.0
+BNB_adjusted_close,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+DXY.INDX_high,0,49,[],0.0
+FIL_adjusted_close,0,49,[],0.0
+SSEC.INDX_high,0,49,[],0.0
+UNH_high,0,49,[],0.0
+V_volume,0,49,[],0.0
+VWUSX_close,0,49,[],0.0
+EURGBP_low_fract,0,49,[],0.0
+HBAR_open,0,49,[],0.0
+SLV_open,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+GBPUSD_volume_fract,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+LTC_high,1,49,[np.int64(2)],0.0
+ETC_close,0,49,[],0.0
+GOOGL_low,1,49,[np.int64(2)],0.0
+DIA_close,0,49,[],0.0
+CADJPY_close_fract,0,49,[],0.0
+XRP_adjusted_close,0,49,[],0.0
+INTC_high,0,49,[],0.0
+AMZN_close,0,49,[],0.0
+NKE_volume,0,49,[],0.0
+SKEW.INDX_close,0,49,[],0.0
+BTC_open,0,49,[],0.0
+GVZ.INDX_high,0,49,[],0.0
+ADBE_high,0,49,[],0.0
+XPDUSD_adjusted_close,0,49,[],0.0
+MCD_adjusted_close,1,49,[np.int64(2)],0.0
+CMCSA_open,1,49,[np.int64(2)],0.0
+CPER_volume,0,49,[],0.0
+DJI.INDX_adjusted_close,0,49,[],0.0
+CORN_adjusted_close,0,49,[],0.0
+AUDCAD_volume,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDJPY_open,0,49,[],0.0
+BNB_open,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(3), np.int64(3)]",0.8023576471041616
+FIL_open,0,49,[],0.0
+LINK_adjusted_close,0,49,[],0.0
+EURUSD_low,0,49,[],0.0
+EFA_adjusted_close,0,49,[],0.0
+IBEX.INDX_adjusted_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+JPM_close,0,49,[],0.0
+MA_high,0,49,[],0.0
+AGG_open,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+SWPPX_open,0,49,[],0.0
+EURCAD_high_fract,0,49,[],0.0
+AUDUSD_high_fract,1,49,[np.int64(2)],0.0
+CADJPY_low,0,49,[],0.0
+SLV_adjusted_close,0,49,[],0.0
+MA_close,0,49,[],0.0
+FZROX_close,0,49,[],0.0
+VSMAX_close,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+V_close,0,49,[],0.0
+CHFJPY_high,0,49,[],0.0
+UNH_volume,0,49,[],0.0
+AUDNZD_volume_fract,2,49,"[np.int64(2), np.int64(2)]",1.0
+VVIX.INDX_open,0,49,[],0.0
+BCH_low,0,49,[],0.0
+VIX.INDX_low,2,49,"[np.int64(2), np.int64(2)]",1.0
+VIX.INDX_close,2,49,"[np.int64(2), np.int64(2)]",1.0
+AUDCAD_low,0,49,[],0.0
+EURGBP_high,0,49,[],0.0
+VOO_open,0,49,[],0.0
+CPER_adjusted_close,0,49,[],0.0
+DXY.INDX_close,0,49,[],0.0
+COST_adjusted_close,0,49,[],0.0
+GBPUSD_volume,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+QNT_open,0,49,[],0.0
+AUDJPY_low,0,49,[],0.0
+XLK_low,0,49,[],0.0
+WMT_open,0,49,[],0.0
+OVX.INDX_open,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+AMZN_low,0,49,[],0.0
+NDX.INDX_adjusted_close,0,49,[],0.0
+USDCAD_high,0,49,[],0.0
+ATOM_low,1,49,[np.int64(2)],0.0
+IVV_close,0,49,[],0.0
+SWPPX_high,0,49,[],0.0
+BAC_low,0,49,[],0.0
+ORCL_low,0,49,[],0.0
+AUDUSD_volume_fract,1,49,[np.int64(2)],0.0
+CSCO_adjusted_close,0,49,[],0.0
+VIX.INDX_high,2,49,"[np.int64(2), np.int64(2)]",1.0
+CADCHF_open,0,49,[],0.0
+ADBE_adjusted_close,0,49,[],0.0
+EURAUD_low,0,49,[],0.0
+SKEW.INDX_volume,0,49,[],0.0
+XRP_high,0,49,[],0.0
+USO_high,1,49,[np.int64(2)],0.0
+BCH_adjusted_close,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+EURCHF_close,0,49,[],0.0
+SWPPX_close,0,49,[],0.0
+AUDNZD_volume,2,49,"[np.int64(2), np.int64(2)]",1.0
+EURUSD_high,0,49,[],0.0
+AUDUSD_high,0,49,[],0.0
+MSFT_open,0,49,[],0.0
+EURCHF_high_fract,0,49,[],0.0
+CSCO_low,0,49,[],0.0
+VIGAX_adjusted_close,0,49,[],0.0
+EURCAD_high,0,49,[],0.0
+USDJPY_high,0,49,[],0.0
+VXD.INDX_high,0,49,[],0.0
+USDJPY_volume,0,49,[],0.0
+TXN_adjusted_close,0,49,[],0.0
+EURCAD_volume,0,49,[],0.0
+VIGAX_close,0,49,[],0.0
+USO_open,1,49,[np.int64(2)],0.0
+LINK_close,0,49,[],0.0
+AUDNZD_close,0,49,[],0.0
+USDJPY_open,0,49,[],0.0
+VTI_close,0,49,[],0.0
+EFA_volume,0,49,[],0.0
+COST_close,0,49,[],0.0
+HBAR_adjusted_close,0,49,[],0.0
+EURCHF_volume_fract,0,49,[],0.0
+SOYB_high,0,49,[],0.0
+EURGBP_volume_fract,0,49,[],0.0
+CADCHF_high_fract,0,49,[],0.0
+XPTUSD_high,0,49,[],0.0
+TXN_high,0,49,[],0.0
+LTC_open,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(3), np.int64(3)]",0.7979694919554029
+OVX.INDX_close,0,49,[],0.0
+USDJPY_close,0,49,[],0.0
+IBEX.INDX_open,0,49,[],0.0
+IBEX.INDX_low,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CADCHF_close,0,49,[],0.0
+XLM_close,0,49,[],0.0
+DOGE_volume,0,49,[],0.0
+GOOGL_close,1,49,[np.int64(2)],0.0
+USO_volume,0,49,[],0.0
+TSLA_close,0,49,[],0.0
+FIL_low,0,49,[],0.0
+VWUSX_adjusted_close,0,49,[],0.0
+TMUS_open,0,49,[],0.0
+GLD_volume,0,49,[],0.0
+SWPPX_adjusted_close,0,49,[],0.0
+EURCHF_close_fract,0,49,[],0.0
+CADJPY_close,0,49,[],0.0
+AGG_close,0,49,[],0.0
+ADBE_close,0,49,[],0.0
+CADJPY_high,0,49,[],0.0
+CADJPY_open,0,49,[],0.0
+TSLA_low,0,49,[],0.0
+ORCL_close,0,49,[],0.0
+AUDNZD_close_fract,0,49,[],0.0
+XLM_low,0,49,[],0.0
+SPY_volume,0,49,[],0.0
+XAUUSD_adjusted_close,0,49,[],0.0
+GOOG_adjusted_close,1,49,[np.int64(2)],0.0
+UNG_low,0,49,[],0.0
+XLK_close,0,49,[],0.0
+XAUUSD_low,0,49,[],0.0
+BSESN.INDX_high,0,49,[],0.0
+AUDCHF_open,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+QNT_low,0,49,[],0.0
+EURCHF_open,0,49,[],0.0
+XRP_volume,0,49,[],0.0
+UNH_adjusted_close,0,49,[],0.0
+META_adjusted_close,0,49,[],0.0
+MCD_high,2,49,"[np.int64(2), np.int64(2)]",1.0
+ETC_adjusted_close,0,49,[],0.0
+SWPPX_low,0,49,[],0.0
+VSMAX_open,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDUSD_volume,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+EURUSD_close,0,49,[],0.0
+SPY_low,0,49,[],0.0
+ETC_high,0,49,[],0.0
+TRX_adjusted_close,0,49,[],0.0
+XAUUSD_volume,0,49,[],0.0
+AUDCHF_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+KO_adjusted_close,0,49,[],0.0
+WEAT_volume,0,49,[],0.0
+VXN.INDX_adjusted_close,1,49,[np.int64(2)],0.0
+TSLA_open,0,49,[],0.0
+IWM_high,0,49,[],0.0
+WMT_low,0,49,[],0.0
+NFLX_adjusted_close,0,49,[],0.0
+PEP_high,0,49,[],0.0
+AMZN_volume,1,49,[np.int64(2)],0.0
+LTC_adjusted_close,0,49,[],0.0
+TXN_open,1,49,[np.int64(2)],0.0
+XPTUSD_close,0,49,[],0.0
+CADJPY_volume,0,49,[],0.0
+CADJPY_low_fract,1,49,[np.int64(2)],0.0
+ETC_low,0,49,[],0.0
+NFLX_high,0,49,[],0.0
+USDCHF_high_fract,0,49,[],0.0
+XAGUSD_adjusted_close,0,49,[],0.0
+BAC_open,0,49,[],0.0
+CADCHF_volume_fract,0,49,[],0.0
+HSI.INDX_adjusted_close,0,49,[],0.0
+ATOM_volume,0,49,[],0.0
+XLM_high,0,49,[],0.0
+AUDJPY_low_fract,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+TMUS_adjusted_close,0,49,[],0.0
+AGG_high,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDNZD_high,2,49,"[np.int64(2), np.int64(2)]",1.0
+CADJPY_high_fract,0,49,[],0.0
+EURJPY_close_fract,1,49,[np.int64(2)],0.0
+VVIX.INDX_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+XAUUSD_open,0,49,[],0.0
+FIL_close,0,49,[],0.0
+HBAR_volume,0,49,[],0.0
+ADBE_open,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+GBPUSD_close,0,49,[],0.0
+CHFJPY_low_fract,0,49,[],0.0
+GBPUSD_high,0,49,[],0.0
+XPTUSD_adjusted_close,0,49,[],0.0
+EURJPY_volume,0,49,[],0.0
+MCD_open,0,49,[],0.0
+BSESN.INDX_adjusted_close,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+GOOG_volume,0,49,[],0.0
+XLK_open,0,49,[],0.0
+TMUS_low,0,49,[],0.0
+TRX_close,0,49,[],0.0
+CRM_low,0,49,[],0.0
+VWUSX_low,0,49,[],0.0
+SPY_open,0,49,[],0.0
+NFLX_volume,0,49,[],0.0
+PG_volume,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+XAUUSD_high,0,49,[],0.0
+VXD.INDX_low,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+META_close,0,49,[],0.0
+GOOGL_volume,2,49,"[np.int64(2), np.int64(2)]",1.0
+MCD_low,0,49,[],0.0
+AMZN_open,0,49,[],0.0
+AUDUSD_close,0,49,[],0.0
+EURJPY_open_fract,0,49,[],0.0
+PG_open,0,49,[],0.0
+SWTSX_open,0,49,[],0.0
+BAC_high,0,49,[],0.0
+LLY_high,0,49,[],0.0
+EURJPY_open,0,49,[],0.0
+CMCSA_low,1,49,[np.int64(2)],0.0
+SOYB_adjusted_close,0,49,[],0.0
+EURJPY_close,0,49,[],0.0
+NDX.INDX_open,0,49,[],0.0
+VOO_high,0,49,[],0.0
+AVGO_low,0,49,[],0.0
+CRM_volume,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VSMAX_high,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VIMAX_high,0,49,[],0.0
+QQQ_high,0,49,[],0.0
+SOYB_volume,1,49,[np.int64(2)],0.0
+BCH_close,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VSMAX_low,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+MA_low,0,49,[],0.0
+VXD.INDX_open,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CHFJPY_low,0,49,[],0.0
+USDCHF_low_fract,0,49,[],0.0
+VIX.INDX_adjusted_close,2,49,"[np.int64(2), np.int64(2)]",1.0
+BAC_volume,0,49,[],0.0
+SKEW.INDX_open,0,49,[],0.0
+DOGE_close,0,49,[],0.0
+UNG_adjusted_close,0,49,[],0.0
+LTC_close,0,49,[],0.0
+AUDCAD_low_fract,7,49,"[np.int64(3), np.int64(3), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",0.8023576471041616
+CHFJPY_open_fract,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+NDX.INDX_high,0,49,[],0.0
+EURAUD_volume_fract,0,49,[],0.0
+XPTUSD_open,2,49,"[np.int64(2), np.int64(2)]",1.0
+FXAIX_low,0,49,[],0.0
+DIS_high,0,49,[],0.0
+V_high,0,49,[],0.0
+AUDUSD_open,0,49,[],0.0
+LTC_low,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+ETH_low,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDNZD_open_fract,0,49,[],0.0
+CORN_close,0,49,[],0.0
+AMD_volume,0,49,[],0.0
+AUDCAD_open_fract,0,49,[],0.0
+HSI.INDX_close,0,49,[],0.0
+KO_open,0,49,[],0.0
+QQQ_open,0,49,[],0.0
+EURCHF_open_fract,0,49,[],0.0
+IBEX.INDX_high,0,49,[],0.0
+USDJPY_low,0,49,[],0.0
+CRM_high,0,49,[],0.0
+CADCHF_open_fract,0,49,[],0.0
+VOO_low,0,49,[],0.0
+PEP_low,0,49,[],0.0
+IVV_low,0,49,[],0.0
+XRP_low,0,49,[],0.0
+AGG_volume,0,49,[],0.0
+LINK_volume,0,49,[],0.0
+WEAT_close,0,49,[],0.0
+BLK_open,0,49,[],0.0
+VIMAX_open,0,49,[],0.0
+EURGBP_open,0,49,[],0.0
+EURUSD_volume_fract,0,49,[],0.0
+AUDNZD_low_fract,0,49,[],0.0
+CORN_low,0,49,[],0.0
+VXN.INDX_low,0,49,[],0.0
+XAGUSD_low,0,49,[],0.0
+LINK_low,0,49,[],0.0
+META_high,0,49,[],0.0
+AUDCHF_open_fract,0,49,[],0.0
+GLD_high,0,49,[],0.0
+TXN_low,0,49,[],0.0
+IBEX.INDX_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+INTC_volume,0,49,[],0.0
+CADCHF_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VIX.INDX_open,0,49,[],0.0
+ATOM_high,0,49,[],0.0
+LINK_open,0,49,[],0.0
+VTI_volume,0,49,[],0.0
+AUDJPY_open_fract,0,49,[],0.0
+COST_volume,2,49,"[np.int64(2), np.int64(2)]",1.0
+CHFJPY_open,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+EURJPY_volume_fract,0,49,[],0.0
+CRM_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+USDCAD_high_fract,0,49,[],0.0
+HSI.INDX_high,0,49,[],0.0
+XOM_open,0,49,[],0.0
+ORCL_volume,0,49,[],0.0
+AUDCHF_close,0,49,[],0.0
+USDCAD_close,0,49,[],0.0
+AUDCHF_volume,0,49,[],0.0
+ORCL_adjusted_close,0,49,[],0.0
+TXN_close,0,49,[],0.0
+NVDA_high,0,49,[],0.0
+GBPUSD_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+DIA_volume,0,49,[],0.0
+AVGO_volume,0,49,[],0.0
+ETH_volume,0,49,[],0.0
+AMZN_adjusted_close,0,49,[],0.0
+EURCAD_close,0,49,[],0.0
+NVDA_close,0,49,[],0.0
+USDCHF_volume_fract,0,49,[],0.0
+BLK_close,0,49,[],0.0
+BAC_close,2,49,"[np.int64(2), np.int64(2)]",1.0
+EURUSD_open,0,49,[],0.0
+VTSAX_low,0,49,[],0.0
+AUDUSD_low,0,49,[],0.0
+XLM_volume,0,49,[],0.0
+VVIX.INDX_high,7,49,"[np.int64(2), np.int64(3), np.int64(3), np.int64(3), np.int64(3), np.int64(2), np.int64(3)]",0.8335643342885325
+DJI.INDX_open,0,49,[],0.0
+VFIAX_close,0,49,[],0.0
+VIMAX_low,0,49,[],0.0
+EURCHF_low_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CPER_close,0,49,[],0.0
+VXD.INDX_close,0,49,[],0.0
+VTSAX_open,0,49,[],0.0
+CSCO_volume,0,49,[],0.0
+CMCSA_adjusted_close,1,49,[np.int64(2)],0.0
+USDCAD_low,0,49,[],0.0
+ADA_open,0,49,[],0.0
+AVGO_adjusted_close,0,49,[],0.0
+VTI_high,0,49,[],0.0
+NVDA_low,0,49,[],0.0
+UNH_open,0,49,[],0.0
+SLV_high,0,49,[],0.0
+SWTSX_close,0,49,[],0.0
+MSFT_volume,7,49,"[np.int64(3), np.int64(3), np.int64(3), np.int64(2), np.int64(2), np.int64(3), np.int64(3)]",0.8335643342885325
+JPM_adjusted_close,0,49,[],0.0
+INTC_adjusted_close,0,49,[],0.0
+GOOG_open,2,49,"[np.int64(2), np.int64(2)]",1.0
+AUDUSD_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AGG_low,0,49,[],0.0
+DJI.INDX_volume,0,49,[],0.0
+FIL_volume,1,49,[np.int64(2)],0.0
+CADJPY_open_fract,0,49,[],0.0
+FZROX_open,0,49,[],0.0
+KO_volume,7,49,"[np.int64(3), np.int64(3), np.int64(3), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",0.7962293175956584
+DIS_volume,0,49,[],0.0
+LLY_open,0,49,[],0.0
+EURGBP_low,0,49,[],0.0
+DXY.INDX_open,0,49,[],0.0
+EURUSD_open_fract,0,49,[],0.0
+AMD_high,0,49,[],0.0
+NKE_open,0,49,[],0.0
+EURAUD_open_fract,0,49,[],0.0
+BLK_volume,0,49,[],0.0
+DIS_close,0,49,[],0.0
+EURGBP_volume,0,49,[],0.0
+DIA_high,0,49,[],0.0
+VOO_close,0,49,[],0.0
+UNG_high,0,49,[],0.0
+HSI.INDX_volume,0,49,[],0.0
+JPM_high,0,49,[],0.0
+USDCAD_low_fract,0,49,[],0.0
+FXAIX_close,0,49,[],0.0
+DIA_low,0,49,[],0.0
+EURCAD_low,0,49,[],0.0
+VFIAX_open,0,49,[],0.0
+AMZN_high,0,49,[],0.0
+QQQ_adjusted_close,0,49,[],0.0
+KO_high,0,49,[],0.0
+TXN_volume,0,49,[],0.0
+USDCAD_open,0,49,[],0.0
+CHFJPY_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+QNT_volume,0,49,[],0.0
+HBAR_low,0,49,[],0.0
+USO_close,0,49,[],0.0
+XAGUSD_high,0,49,[],0.0
+CPER_high,2,49,"[np.int64(2), np.int64(2)]",1.0
+QQQ_volume,0,49,[],0.0
+EURJPY_low,0,49,[],0.0
+XRP_open,0,49,[],0.0
+XAGUSD_volume,0,49,[],0.0
+CHFJPY_volume_fract,0,49,[],0.0
+FIL_high,0,49,[],0.0
+IBEX.INDX_volume,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+XLM_open,0,49,[],0.0
+V_open,0,49,[],0.0
+CSCO_close,0,49,[],0.0
+GVZ.INDX_low,1,49,[np.int64(2)],0.0
+WEAT_low,0,49,[],0.0
+XAGUSD_open,0,49,[],0.0
+SWTSX_high,0,49,[],0.0
+AUDNZD_open,0,49,[],0.0
+MA_adjusted_close,0,49,[],0.0
+SPY_adjusted_close,0,49,[],0.0
+CHFJPY_high_fract,0,49,[],0.0
+BNB_low,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+USDCHF_close_fract,0,49,[],0.0
+INTC_low,1,49,[np.int64(2)],0.0
+BSESN.INDX_close,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CRM_adjusted_close,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+ADBE_low,0,49,[],0.0
+SLV_volume,2,49,"[np.int64(2), np.int64(2)]",1.0
+EURCHF_volume,0,49,[],0.0
+GBPUSD_low,0,49,[],0.0
+LLY_volume,0,49,[],0.0
+ETC_open,0,49,[],0.0
+MA_open,0,49,[],0.0
+BCH_high,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+QNT_close,0,49,[],0.0
+MSFT_close,0,49,[],0.0
+ADA_volume,0,49,[],0.0
+EURUSD_volume,0,49,[],0.0
+TRX_open,0,49,[],0.0
+AUDJPY_close,0,49,[],0.0
+LTC_volume,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VWUSX_open,0,49,[],0.0
+EURCAD_volume_fract,0,49,[],0.0
+TMUS_volume,0,49,[],0.0
+GOOG_low,2,49,"[np.int64(2), np.int64(2)]",1.0
+BNB_volume,2,49,"[np.int64(2), np.int64(2)]",1.0
+USDCHF_open_fract,0,49,[],0.0
+DIS_open,1,49,[np.int64(2)],0.0
+WMT_high,0,49,[],0.0
+PEP_volume,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDCHF_low,0,49,[],0.0
+ORCL_high,0,49,[],0.0
+GLD_low,0,49,[],0.0
+AUDJPY_volume,0,49,[],0.0
+NFLX_close,0,49,[],0.0
+AUDCHF_volume_fract,0,49,[],0.0
+XOM_volume,0,49,[],0.0
+SPY_high,0,49,[],0.0
+WMT_close,0,49,[],0.0
+ORCL_open,0,49,[],0.0
+CORN_high,0,49,[],0.0
+XPDUSD_open,0,49,[],0.0
+CORN_volume,0,49,[],0.0
+UNG_volume,0,49,[],0.0
+TMUS_high,0,49,[],0.0
+EURJPY_high_fract,0,49,[],0.0
+CRM_open,0,49,[],0.0
+PG_adjusted_close,0,49,[],0.0
+VFIAX_low,0,49,[],0.0
+VIGAX_low,0,49,[],0.0
+ADA_low,0,49,[],0.0
+CPER_open,2,49,"[np.int64(2), np.int64(2)]",1.0
+HSI.INDX_low,0,49,[],0.0
+IWM_close,0,49,[],0.0
+QQQ_close,0,49,[],0.0
+AUDJPY_volume_fract,0,49,[],0.0
+DOGE_low,0,49,[],0.0
+XLK_high,0,49,[],0.0
+XRP_close,0,49,[],0.0
+GBPUSD_open,0,49,[],0.0
+DOGE_adjusted_close,0,49,[],0.0
+AMD_adjusted_close,1,49,[np.int64(2)],0.0
+XPDUSD_low,0,49,[],0.0
+SSEC.INDX_low,0,49,[],0.0
+WMT_volume,0,49,[],0.0
+DXY.INDX_low,0,49,[],0.0
+DIS_low,0,49,[],0.0
+SKEW.INDX_adjusted_close,0,49,[],0.0
+VXN.INDX_open,0,49,[],0.0
+AUDNZD_high_fract,2,49,"[np.int64(2), np.int64(2)]",1.0
+SSEC.INDX_volume,0,49,[],0.0
+USDCHF_volume,0,49,[],0.0
+OVX.INDX_adjusted_close,0,49,[],0.0
+FXAIX_open,0,49,[],0.0
+SKEW.INDX_high,0,49,[],0.0
+TSLA_adjusted_close,0,49,[],0.0
+NDX.INDX_close,0,49,[],0.0
+EFA_low,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+HD_volume,0,49,[],0.0
+EURAUD_high_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+NVDA_open,0,49,[],0.0
+GBPUSD_high_fract,0,49,[],0.0
+VIMAX_close,0,49,[],0.0
+AUDCAD_high,0,49,[],0.0
+USDCAD_close_fract,0,49,[],0.0
+CADCHF_low,0,49,[],0.0
+HBAR_close,0,49,[],0.0
+ETC_volume,0,49,[],0.0
+NVDA_volume,0,49,[],0.0
+MOVE.INDX_adjusted_close,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+DXY.INDX_adjusted_close,0,49,[],0.0
+XOM_high,0,49,[],0.0
+NKE_close,2,49,"[np.int64(2), np.int64(2)]",1.0
+DIS_adjusted_close,0,49,[],0.0
+EURJPY_high,0,49,[],0.0
+VWUSX_high,0,49,[],0.0
+PG_high,0,49,[],0.0
+SOYB_close,0,49,[],0.0
+XPDUSD_high,0,49,[],0.0
+XPDUSD_close,0,49,[],0.0
+CPER_low,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+DJI.INDX_high,0,49,[],0.0
+VIMAX_adjusted_close,0,49,[],0.0
+OVX.INDX_high,0,49,[],0.0
+CORN_open,0,49,[],0.0
+LLY_adjusted_close,0,49,[],0.0
+USDCAD_open_fract,0,49,[],0.0
+GVZ.INDX_adjusted_close,0,49,[],0.0
+MOVE.INDX_high,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CMCSA_close,1,49,[np.int64(2)],0.0
+LLY_low,0,49,[],0.0
+EURCAD_close_fract,0,49,[],0.0
+JPM_open,0,49,[],0.0
+AUDJPY_high_fract,0,49,[],0.0
+COST_low,0,49,[],0.0
+AUDCAD_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+COST_open,0,49,[],0.0
+AUDCAD_open,0,49,[],0.0
+EURAUD_close_fract,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+BNB_close,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CADCHF_low_fract,0,49,[],0.0
+XOM_close,0,49,[],0.0
+EURGBP_high_fract,0,49,[],0.0
+MSFT_adjusted_close,0,49,[],0.0
+GLD_close,0,49,[],0.0
+EFA_open,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+NKE_adjusted_close,0,49,[],0.0
+VFIAX_adjusted_close,0,49,[],0.0
+WMT_adjusted_close,0,49,[],0.0
+USDCHF_close,0,49,[],0.0
+IVV_volume,0,49,[],0.0
+HSI.INDX_open,0,49,[],0.0
+UNG_close,0,49,[],0.0
+MOVE.INDX_open,0,49,[],0.0
+OVX.INDX_low,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+EURAUD_close,0,49,[],0.0
+SKEW.INDX_low,0,49,[],0.0
+HD_low,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+EURCHF_low,0,49,[],0.0
+BLK_high,0,49,[],0.0
+XAUUSD_close,0,49,[],0.0
+GBPUSD_low_fract,0,49,[],0.0
+GBPUSD_open_fract,0,49,[],0.0
+GVZ.INDX_open,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+DOGE_high,0,49,[],0.0
+HD_high,0,49,[],0.0
+AMD_open,0,49,[],0.0
+EURAUD_volume,0,49,[],0.0
+BCH_volume,0,49,[],0.0
+TRX_high,0,49,[],0.0
+EURCAD_open_fract,0,49,[],0.0
+USDJPY_open_fract,0,49,[],0.0
+CHFJPY_volume,0,49,[],0.0
+NDX.INDX_volume,0,49,[],0.0
+PEP_adjusted_close,0,49,[],0.0
+AUDCAD_close,0,49,[],0.0
+INTC_open,0,49,[],0.0
+BSESN.INDX_open,0,49,[],0.0
+UNH_close,0,49,[],0.0
+VTI_low,0,49,[],0.0
+PEP_close,0,49,[],0.0
+XPTUSD_low,1,49,[np.int64(2)],0.0
+SLV_low,0,49,[],0.0
+IWM_volume,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+CADJPY_volume_fract,0,49,[],0.0
+IVV_open,0,49,[],0.0
+VXD.INDX_adjusted_close,0,49,[],0.0
+SOYB_low,2,49,"[np.int64(2), np.int64(2)]",1.0
+TRX_volume,0,49,[],0.0
+FZROX_adjusted_close,0,49,[],0.0
+BTC_volume,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VOO_volume,0,49,[],0.0
+AUDCHF_high,0,49,[],0.0
+GOOG_high,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+BCH_open,0,49,[],0.0
+HD_open,5,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+MA_volume,5,49,"[np.int64(3), np.int64(3), np.int64(2), np.int64(3), np.int64(3)]",0.8571428576530612
+BTC_adjusted_close,0,49,[],0.0
+V_adjusted_close,0,49,[],0.0
+COST_high,0,49,[],0.0
+SSEC.INDX_adjusted_close,0,49,[],0.0
+BLK_adjusted_close,0,49,[],0.0
+JPM_volume,0,49,[],0.0
+LLY_close,0,49,[],0.0
+BLK_low,0,49,[],0.0
+VVIX.INDX_low,0,49,[],0.0
+AUDCHF_low_fract,0,49,[],0.0
+FZROX_high,0,49,[],0.0
+BTC_high,0,49,[],0.0
+SSEC.INDX_open,0,49,[],0.0
+EURCAD_open,0,49,[],0.0
+EURAUD_open,0,49,[],0.0
+ADA_adjusted_close,0,49,[],0.0
+SLV_close,0,49,[],0.0
+EURAUD_high,0,49,[],0.0
+GOOGL_adjusted_close,2,49,"[np.int64(2), np.int64(2)]",1.0
+FZROX_low,0,49,[],0.0
+MSFT_high,0,49,[],0.0
+BAC_adjusted_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+WEAT_adjusted_close,0,49,[],0.0
+CHFJPY_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+GOOGL_open,1,49,[np.int64(2)],0.0
+PG_close,0,49,[],0.0
+SWTSX_low,0,49,[],0.0
+JPM_low,0,49,[],0.0
+ADA_high,0,49,[],0.0
+UNG_open,0,49,[],0.0
+XLK_volume,1,49,[np.int64(2)],0.0
+DOGE_open,0,49,[],0.0
+EURJPY_low_fract,0,49,[],0.0
+TSLA_volume,0,49,[],0.0
+VTSAX_close,0,49,[],0.0
+USDCHF_open,0,49,[],0.0
+ADA_close,0,49,[],0.0
+PG_low,0,49,[],0.0
+USDCHF_low,0,49,[],0.0
+EURUSD_low_fract,0,49,[],0.0
+USO_adjusted_close,0,49,[],0.0
+LINK_high,0,49,[],0.0
+AVGO_open,0,49,[],0.0
+EFA_high,1,49,[np.int64(2)],0.0
+VXN.INDX_high,0,49,[],0.0
+BTC_low,0,49,[],0.0
+UNH_low,0,49,[],0.0
+NDX.INDX_low,0,49,[],0.0
+META_low,0,49,[],0.0
+CSCO_high,0,49,[],0.0
+WEAT_open,0,49,[],0.0
+GLD_adjusted_close,0,49,[],0.0
+CMCSA_volume,1,49,[np.int64(2)],0.0
+AUDCAD_high_fract,1,49,[np.int64(2)],0.0
+VXN.INDX_close,1,49,[np.int64(2)],0.0
+ETH_adjusted_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+DIA_adjusted_close,0,49,[],0.0
+USDJPY_high_fract,0,49,[],0.0
+CMCSA_high,1,49,[np.int64(2)],0.0
+BNB_high,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+DIA_open,0,49,[],0.0
+GOOG_close,1,49,[np.int64(2)],0.0
+AVGO_close,0,49,[],0.0
+KO_low,0,49,[],0.0
+TSLA_high,0,49,[],0.0
+VOO_adjusted_close,0,49,[],0.0
+VTSAX_adjusted_close,0,49,[],0.0
+GVZ.INDX_close,0,49,[],0.0
+VSMAX_adjusted_close,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AVGO_high,0,49,[],0.0
+EURGBP_close_fract,0,49,[],0.0
+USO_low,1,49,[np.int64(2)],0.0
+FXAIX_high,0,49,[],0.0
+EURCHF_high,0,49,[],0.0
+DJI.INDX_low,0,49,[],0.0
+HBAR_high,0,49,[],0.0
+USDJPY_close_fract,0,49,[],0.0
+NFLX_open,0,49,[],0.0
+AUDJPY_high,0,49,[],0.0
+AUDUSD_open_fract,0,49,[],0.0
+CADCHF_volume,0,49,[],0.0
+TMUS_close,0,49,[],0.0
+AUDCAD_volume_fract,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDNZD_low,2,49,"[np.int64(2), np.int64(2)]",1.0
+GOOGL_high,3,49,"[np.int64(2), np.int64(2), np.int64(2)]",1.0
+META_open,0,49,[],0.0
+IVV_high,0,49,[],0.0
+VTI_adjusted_close,0,49,[],0.0
+VTI_open,0,49,[],0.0
+VVIX.INDX_adjusted_close,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+AUDCHF_high_fract,0,49,[],0.0
+EURGBP_close,0,49,[],0.0
+NKE_low,0,49,[],0.0
+EURUSD_high_fract,0,49,[],0.0
+USDJPY_volume_fract,0,49,[],0.0
+DJI.INDX_close,0,49,[],0.0
+AUDJPY_close_fract,4,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+PEP_open,0,49,[],0.0
+XOM_adjusted_close,0,49,[],0.0
+AMD_low,0,49,[],0.0
+QNT_high,0,49,[],0.0
+KO_close,0,49,[],0.0
+META_volume,0,49,[],0.0
+XLM_adjusted_close,0,49,[],0.0
+USDCHF_high,1,49,[np.int64(2)],0.0
+VTSAX_high,0,49,[],0.0
+MSFT_low,0,49,[],0.0
+IWM_open,0,49,[],0.0
+AMD_close,1,49,[np.int64(2)],0.0
+MCD_close,0,49,[],0.0
+ADBE_volume,0,49,[],0.0
+CSCO_open,0,49,[],0.0
+SWTSX_adjusted_close,0,49,[],0.0
+EURCAD_low_fract,0,49,[],0.0
+ATOM_close,0,49,[],0.0
+USDCAD_volume,0,49,[],0.0
+EURGBP_open_fract,0,49,[],0.0
+USDCAD_volume_fract,0,49,[],0.0
+ETH_high,0,49,[],0.0
+QNT_adjusted_close,0,49,[],0.0
+QQQ_low,0,49,[],0.0
+SPY_close,0,49,[],0.0
+BSESN.INDX_volume,0,49,[],0.0
+NFLX_low,0,49,[],0.0
+SOYB_open,0,49,[],0.0
+AUDUSD_low_fract,6,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(3)]",0.8279947717554249
+MCD_volume,0,49,[],0.0
+WEAT_high,0,49,[],0.0
+HD_adjusted_close,0,49,[],0.0
+NKE_high,0,49,[],0.0
+FXAIX_adjusted_close,0,49,[],0.0
+ETH_open,6,49,"[np.int64(2), np.int64(3), np.int64(3), np.int64(3), np.int64(3), np.int64(3)]",0.8684665900230715
+MOVE.INDX_close,7,49,"[np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2), np.int64(2)]",1.0
+VFIAX_high,0,49,[],0.0
+IWM_adjusted_close,0,49,[],0.0
+BSESN.INDX_low,0,49,[],0.0
+V_low,0,49,[],0.0
+XLK_adjusted_close,0,49,[],0.0
+VIGAX_high,0,49,[],0.0
+HD_close,0,49,[],0.0
+INTC_close,0,49,[],0.0
+EFA_close,0,49,[],0.0
+SSEC.INDX_close,0,49,[],0.0
+CADCHF_high,0,49,[],0.0
+TRX_low,0,49,[],0.0
+GLD_open,0,49,[],0.0
+VIGAX_open,0,49,[],0.0
